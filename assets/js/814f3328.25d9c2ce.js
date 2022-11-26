@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_jeiiz_wiki_site=self.webpackChunk_jeiiz_wiki_site||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"hello world","permalink":"/blog/hello"}]}')}}]);

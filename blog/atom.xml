@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://localhost:3000/blog</id>
+    <title>world Blog</title>
+    <updated>2022-11-26T10:11:14.397Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://localhost:3000/blog"/>
+    <subtitle>world Blog</subtitle>
+    <icon>https://localhost:3000/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[hello world]]></title>
+        <id>/hello</id>
+        <link href="https://localhost:3000/blog/hello"/>
+        <updated>2022-11-26T10:11:14.397Z</updated>
+        <summary type="html"><![CDATA[12]]></summary>
+        <content type="html"><![CDATA[<p>12</p>]]></content>
+    </entry>
+</feed>
