@@ -1,2 +1,2 @@
 # wiki.jeiizou.site
-wiki.jeiizou.site
+https://wiki.jeiizou.site
