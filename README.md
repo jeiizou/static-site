@@ -1,2 +1,2 @@
-# static-site
-static-site
+# wiki.jeiizou.site
+wiki.jeiizou.site
