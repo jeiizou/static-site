@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>world Blog</title>
-        <link>https://localhost:3000/blog</link>
-        <description>world Blog</description>
+        <title>wiki &amp; blog Blog</title>
+        <link>https://wiki.jeiizou.site/blog</link>
+        <description>wiki &amp; blog Blog</description>
         <lastBuildDate>Sun, 27 Nov 2022 12:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[Deno, 及其相关的一切]]></title>
-            <link>https://localhost:3000/blog/Deno, 以及相关的一切</link>
+            <link>https://wiki.jeiizou.site/blog/Deno, 以及相关的一切</link>
             <guid>/Deno, 以及相关的一切</guid>
             <pubDate>Sun, 27 Nov 2022 12:45:29 GMT</pubDate>
             <description><![CDATA[image]]></description>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[关于 vscode 的一些废话]]></title>
-            <link>https://localhost:3000/blog/关于 vscode 的一些废话</link>
+            <link>https://wiki.jeiizou.site/blog/关于 vscode 的一些废话</link>
             <guid>/关于 vscode 的一些废话</guid>
             <pubDate>Sun, 27 Nov 2022 12:45:29 GMT</pubDate>
             <description><![CDATA[vscode 的核心组件]]></description>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[前端包管理机制简述]]></title>
-            <link>https://localhost:3000/blog/前端包管理机制简述</link>
+            <link>https://wiki.jeiizou.site/blog/前端包管理机制简述</link>
             <guid>/前端包管理机制简述</guid>
             <pubDate>Sun, 27 Nov 2022 12:45:29 GMT</pubDate>
             <description><![CDATA[从package.json文件说起]]></description>
@@ -34,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[前端项目结构演进]]></title>
-            <link>https://localhost:3000/blog/前端项目结构演进</link>
+            <link>https://wiki.jeiizou.site/blog/前端项目结构演进</link>
             <guid>/前端项目结构演进</guid>
             <pubDate>Sun, 27 Nov 2022 12:45:29 GMT</pubDate>
             <description><![CDATA[前言]]></description>
@@ -42,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[小程序概览]]></title>
-            <link>https://localhost:3000/blog/小程序概览</link>
+            <link>https://wiki.jeiizou.site/blog/小程序概览</link>
             <guid>/小程序概览</guid>
             <pubDate>Sun, 27 Nov 2022 12:45:29 GMT</pubDate>
             <description><![CDATA[简介]]></description>
